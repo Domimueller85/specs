@@ -20,9 +20,9 @@
 
 ## 🔗 Bezug zu Issue
 
-<!-- Schließt dieses PR ein Issue? Falls ja: "Closes #XXX" -->
+<!-- Schließt dieses PR ein Issue? Falls ja: "Closes #XXX" — sonst diese Zeile löschen -->
 
-Closes #
+<!-- Closes #XXX -->
 
 ---
 
