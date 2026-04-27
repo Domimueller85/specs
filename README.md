@@ -52,7 +52,7 @@
 
 ## 🚀 Mitmachen
 
-- 💡 Neue Idee? → [Issue erstellen](.github/ISSUE_TEMPLATE/new_spec.md)
+- 💡 Neue Idee? → [Issue erstellen](https://github.com/Domimueller85/specs/issues/new?template=new_spec.md)
 - 🤝 Beitragen? → [CONTRIBUTING.md](CONTRIBUTING.md) lesen
 - 🛡️ Regeln? → [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md)
 
