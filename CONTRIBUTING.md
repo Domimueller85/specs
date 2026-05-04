@@ -20,7 +20,7 @@ Danke, dass du mitmachen möchtest! Hier sind die wichtigsten Regeln auf einen B
 
 ## 📝 Wie reiche ich etwas ein?
 
-1. **💡 Idee** → Erstelle ein [Issue](.github/ISSUE_TEMPLATE/new_spec.md) mit der Vorlage
+1. **💡 Idee** → Erstelle ein [Issue](https://github.com/Domimueller85/specs/issues/new?template=new_spec.md) mit der Vorlage
 2. **✏️ Entwurf** → Lege eine Datei in `specs/drafts/` an (Namensformat: `wtf-XXXX-titel.md`)
 3. **📬 Pull Request** → Öffne einen PR und beschreibe deine Änderung kurz
 4. **🔍 Review** → Warte auf Feedback (wir antworten so schnell wie möglich)
