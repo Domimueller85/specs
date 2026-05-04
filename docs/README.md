@@ -8,7 +8,7 @@
 
 - [ ] 📖 `glossary.md` — Begriffserklärungen
 - [ ] 🗺️ `roadmap.md` — Geplante Spezifikationen
-- [ ] 📏 `spec-template.md` — Vorlage für neue Spezifikationen
+- [x] 📏 [`spec-template.md`](spec-template.md) — Vorlage für neue Spezifikationen
 
 ---
 
